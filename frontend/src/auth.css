@@ -1,0 +1,69 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  .auth-container {
+    text-align: center;
+    background: white;
+    padding: 20px 40px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .auth-container h1 {
+    margin-bottom: 20px;
+    font-size: 24px;
+    color: #333;
+  }
+  
+  .auth-buttons button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+    gap: 10px;
+  }
+  
+  .auth-buttons button.google {
+    background-color: #dd4b39;
+    color: white;
+  }
+  
+  .auth-buttons button.google:hover {
+    background-color: #c23321;
+  }
+  
+  .auth-buttons button.yandex {
+    background-color: #ffcc00;
+    color: black;
+  }
+  
+  .auth-buttons button.yandex:hover {
+    background-color: #e6b800;
+  }
+  
+  .auth-buttons button.github {
+    background-color: #24292e;
+    color: white;
+  }
+  
+  .auth-buttons button.github:hover {
+    background-color: #1a1d1f;
+  }
+  
+  .auth-buttons i {
+    font-size: 20px;
+  }

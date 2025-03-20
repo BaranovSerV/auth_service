@@ -82,3 +82,8 @@ VITE_BASE_BACKEND_URL=http://localhost:8000/api
 ```bash
 npm run dev
 ```
+
+## Приложение:
+
+![](../docs/image-1.png)
+![](../docs/image-3.png)

@@ -1,4 +1,4 @@
-# Auth Service
+# Auth Service Backend
 
 This is an authentication service built with FastAPI, which supports OAuth2 authentication with multiple providers (Google, Yandex, GitHub) and JWT-based access and refresh tokens.
 

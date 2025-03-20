@@ -35,3 +35,9 @@
 - [Документация](frontend/README.md)
 
 ---
+
+#### Клонируйте репозиторий:
+
+```bash
+git clone https://github.com/BaranovSerV/auth_service.git
+```
